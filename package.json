@@ -1,5 +1,8 @@
 {
   "name": "ts-browser-game",
   "version": "1.0.0",
-  "description": "A template for browser games written in TypeScript"
+  "description": "A template for browser games written in TypeScript",
+  "engines": {
+    "node": "20"
+  }
 }
